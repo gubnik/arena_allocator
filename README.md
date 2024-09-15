@@ -8,6 +8,8 @@ educational purposes.
 ```bash
 sudo make install
 ```
+
+## Test
 To run a test program, run
 ```bash
 make test
