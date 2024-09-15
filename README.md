@@ -4,6 +4,15 @@ A very simple C++ arena allocator using POSIX mmap.
 It is unfit for commercial usage and should be only used for
 educational purposes.
 
+## Install
+```bash
+sudo make install
+```
+To run a test program, run
+```bash
+make test
+```
+
 ## Example
 ```c++
 #include <arena_allocator>
